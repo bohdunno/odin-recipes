@@ -1,1 +1,2 @@
-# odin-recipes
+Hi, this is my first attempt to try out coding learned on TOP for an html site practice project.
+i'll probably spend very little time on it but i wanna make it meaningful, still. Let's see how this goes.
